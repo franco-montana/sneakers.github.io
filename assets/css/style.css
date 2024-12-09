@@ -254,8 +254,8 @@ object-fit: contain;
     width: 100;
     height: 100%;
     object-fit: contain;
-background-image:url(https://thumbs.dreamstime.com/b/minimalistic-japan-sunset-over-lake-orange-landscape-illustration-background-wallpaper-minimalistic-japan-sunset-over-lake-331514156.jpg) ;}
-
+background-image:url(https://thumbs.dreamstime.com/b/minimalistic-japan-sunset-over-lake-orange-landscape-illustration-background-wallpaper-minimalistic-japan-sunset-over-lake-331514156.jpg) ;
+    background-size:contain;}
 .bottom {
     width: 200%;
     height: 20%;
