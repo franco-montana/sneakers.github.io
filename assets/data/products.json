@@ -1,0 +1,73 @@
+[
+    {
+      "nombre": "Zapatilla Rorona Zoro",
+      "precio": "$35.990",
+      "imagen": "./assets/img/zapatillas-zoro-roronoa.jpeg"
+    },
+    {
+      "nombre": "Zapatillas Sukuna",
+      "precio": "$30.990",
+      "imagen": "assets/img/zapatillas-sukuna-jujutsu-kaisen-comprar.jpg"
+    },
+    {
+      "nombre": "Zapatillas Monkey D Luffy",
+      "precio": "$32.990",
+      "imagen": "./assets/img/zapatillas-luffy.jpeg"
+    },
+    {
+      "nombre": "Zapatillas Luffy Gear fourth",
+      "precio": "$35.990",
+      "imagen": "assets/img/zapatillas-luffy-gear-4-768x768.jpeg"
+    },
+    {
+      "nombre": "Zapatillas Zoro Nittoryu",
+      "precio": "$30.990",
+      "imagen": "./assets/img/zoro_2.jpeg"
+    },
+    {
+      "nombre": "Zapatillas Obito Uchiha",
+      "precio": "$29.990",
+      "imagen": "./assets/img/obito.jpg"
+    },
+    {
+      "nombre": "Zapatillas Gengar",
+      "precio": "$35.990",
+      "imagen": "./assets/img/Gengar.png"
+    },
+    {
+      "nombre": "Zapatillas Tanjiro Kamado",
+      "precio": "$33.990",
+      "imagen": "./assets/img/tanjiro.jpeg"
+    },
+    {
+      "nombre": "Zapatillas Nezuko Kamado",
+      "precio": "$33.990",
+      "imagen": "./assets/img/nezuko-calzado.jpg"
+    },
+    {
+      "nombre": "Calzado Eren Jaeger",
+      "precio": "$28.990",
+      "imagen": "./assets/img/eren-calzado.jpg"
+    },
+    {
+      "nombre": "Zapatillas Tanjiro Canvas",
+      "precio": "$31.990",
+      "imagen": "./assets/img/canvas_tanjiro.jpg"
+    },
+    {
+      "nombre": "Zapatillas Renji Abarai x ASICS",
+      "precio": "$44.990",
+      "imagen": "./assets/img/Bleach_roja.webp"
+    },
+    {
+      "nombre": "Zapatillas Ichigo Kurosaki",
+      "precio": "$45.490",
+      "imagen": "./assets/img/Bleach_Ichigo.webp"
+    },
+    {
+      "nombre": "Zapatillas Kakaroto canvas",
+      "precio": "$34.990",
+      "imagen": "./assets/img/canvas_goku.jpeg"
+    }
+  ]
+  
