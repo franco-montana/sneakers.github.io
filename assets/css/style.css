@@ -56,12 +56,14 @@ a {
 @media (max-width:578px){
     .container-grid {
     display: grid;
+    grid-template-columns: 1fr;
     grid-template-areas: "header"
                          "nav"
                          "section"
                          "footer";
                          min-height: 100vh;
                          }
+                        
                          .header {
                             grid-area: header;
                          }
